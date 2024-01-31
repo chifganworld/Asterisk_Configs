@@ -1,0 +1,4 @@
+host=***provider ip address***
+username=***userid***
+secret=***password***
+type=peer
